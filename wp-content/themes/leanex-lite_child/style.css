@@ -19,6 +19,7 @@ html, body {
 	padding: 0;
 	height: 100%;
     background-color: cyan;
+    /* I changed the color and then I set the correct color in wordpress */
 }
 
 
@@ -1753,6 +1754,8 @@ table .table {
 .credit {
     font-size: 12px;
     margin-bottom: 0;
+    display: none;
+     /* I changed it to none because I dont want this part on my website */
 }
 
 .footer-widgets {
