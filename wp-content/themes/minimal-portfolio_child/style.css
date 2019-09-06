@@ -187,8 +187,8 @@ input,
 select,
 optgroup,
 textarea {
-	color: #666;
-	font-family: 'Poppins', sans-serif;
+	color: #5FDADA;
+	font-family: 'Comfortaa', sans-serif;
 	font-size: 13px;
 	line-height: 30px;
 	font-weight: 400;
@@ -198,7 +198,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 500;
 	text-transform: capitalize;
-	color: #222;
+	color: #5FDADA;
 }
 h1{
 	font-size: 24px;
@@ -1418,8 +1418,8 @@ body .container {
     height: 35px;
     line-height: 35px;
     z-index: 1;
-    background: #222;
-    color: #fff;
+    background: #5FDADA;
+    color: #1C1C2A;
     font-size: 12px;
 }
 .back-to-top:hover {
@@ -1675,9 +1675,9 @@ body.zmm-open {
     text-align: center;
 }
 .portfolio-title-section .title-wrap span {
-    background: #222;
-    color: #fff;
-	padding-left: 5px;
+    background: #5FDADA;
+    color: #1C1C1F;
+    padding-left: 5px;
 }
 .portfolio-items .l2 figcaption h4 {
     display: none;
