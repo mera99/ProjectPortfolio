@@ -438,7 +438,7 @@ textarea {
 ## Links
 --------------------------------------------------------------*/
 a {
-	color: #666;
+	color: #ED5CBE;
 }
 a:hover, a:focus, a:active {
 	color: #222;
@@ -938,7 +938,8 @@ ul li {
     margin-bottom: 20px;
 }
 .footer-bottom {
-    background: #eaeaea;
+    background: #1C1C1F;
+	/* Changed here because I could not change the color in wordpress */
 }
 .footer-top {
     padding-top: 50px;
@@ -1146,7 +1147,7 @@ p.comment-form-cookies-consent label {
     background: #eaeaea;
 }
 .page-header {
-    background: #eaeaea;
+    background: #1C1C1F;
 	border-radius: 0;
 	position: relative;
 }
@@ -1488,7 +1489,8 @@ body.zmm-open {
 	
 }
 .site-header .header-menu {
-    background: #fff;
+    background: #1C1C1F;
+	/* Changed the color so it will work */
     z-index: 999 !important;
 }
 .sidebar-widget ul li:last-child {
