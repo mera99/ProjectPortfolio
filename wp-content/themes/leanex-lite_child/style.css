@@ -1,4 +1,3 @@
-
 /*
  Theme Name:   Leanex Lite Child
  Theme URI:    http://martazmijewska.com/basicwordpress
@@ -768,6 +767,7 @@ section:last-child {
     background-position: 50% !important;
     background-repeat: no-repeat !important;
     color: #fff;
+	margin-top: 120px;
 }
 
 .background-fixed-supported .headline-section {
@@ -780,6 +780,7 @@ section:last-child {
     letter-spacing: 5px;
     font-weight: 700;
     margin-bottom: 28px;
+	margin-top: 70px;
 }
 
 .headline-section p {
