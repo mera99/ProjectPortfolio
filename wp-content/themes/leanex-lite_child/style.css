@@ -225,8 +225,9 @@ input[type="datetime-local"],
 input[type="color"],
 textarea {
 	color: #222;
-	border: 1px solid #ccc;
+	border: 1px solid #6cf4dd;
 	border-radius: 3px;
+	background-color: #23658c;
 }
 
 select {
@@ -500,18 +501,18 @@ a.navbar-brand i {
 .no-header-image .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover,
 .no-header-image .navbar-default .navbar-nav > .active > a:hover,
 .no-header-image .navbar-default .navbar-nav > .active > a:focus {
-	color: #2c2c2c;
+	color: #5ed9d9;
 }
 .no-header-image .navbar-default.on .navbar-nav > li > a {
-	color: #2c2c2c;
+	color: #5ed9d9;
 }
 .no-header-image .navbar-default.on .navbar-nav >.open > a,
 .no-header-image .navbar-default .navbar-nav >.open > a {
-	color: #2c2c2c;
+	color: #5ed9d9;
 }
 
 .navbar-default .navbar-nav >.open > a {
-	color: #2c2c2c;
+	color: #5ed9d9;
 }
 
 .open .dropdown:hover .dropdown-menu {
